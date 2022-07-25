@@ -1,6 +1,6 @@
 ## Purpose
 
-This program demonstrates that the high level networking API in Godot adds around 17 ms of latency.
+This program demonstrates that the high level networking API in Godot adds around 17 ms of latency (unless you are from the future and this has been fixed).
 It continuously sends and receives timestamped UDP datagrams and shows the average ping time based on the latest bunch of them.
 
 ## How to use
